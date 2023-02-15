@@ -10,7 +10,7 @@
 /* home-page -------------------------------------------------------home-page */
 .home-page{
 	height: 125vh;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../Photos/mainBackground.png);
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./Photos/mainBackground.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
